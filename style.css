@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    width: 100px;
+}
+.button{
+    color: white;
+    background-color:#21B573;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 20px;
+
+    
+}
+.bg-color{
+    background-color:#F0FFF0
+    !important;
+}
+.gray-col{
+    color: gray;
+}
+.div-height{
+    height: 576px;
+    background-color: #F0FFF0;
+
+}
+.height{
+    height: 500px;
+}
+.logo-img{
+    width: 66px;
+    height: 86px;
+}
+.col-height{
+    
+    height: 270px;
+    margin-top: 50px;
+}
