@@ -20,6 +20,7 @@ body{
 }
 .gray-col{
     color: gray;
+    font-weight: 200;
 }
 .div-height{
     height: 576px;
@@ -37,4 +38,55 @@ body{
     
     height: 270px;
     margin-top: 50px;
+    
+}
+.card-height{
+    height: 483px;
+    width: 370px;
+    border-radius: 10px;
+}
+.mid-img{
+    height: 234px;
+    width: 331px;
+    margin: 18px;
+}
+.card-footer{
+    border: none;
+    background-color:white;
+}
+.img-wid{
+    height: 120px;
+    width: 120px;
+    margin-right: 30px;
+}
+.div-wid{
+    width: 720px;
+    height: 100px;
+    margin-bottom: 100px;
+}
+.end-section{
+    height: 369px;
+    background-color:#282531;
+    ;
+}
+.text-color{
+    color: white;
+    padding-top: 50px;
+}
+ul li{
+    list-style: none;
+    font-weight: 200;
+    line-height: 30px;
+    font-size: 16px;
+}
+ul li h5{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+}
+footer p{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 12px;
 }
